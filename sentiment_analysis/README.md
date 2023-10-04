@@ -1,5 +1,7 @@
 # Toxic comment detection
 
+[nbviewer](https://nbviewer.org/github/vladislavziyangulov/yandex_practicum/blob/d43432562c89117e62eef6eee6648a657d10c691/sentiment_analysis/toxic_comments.ipynb)
+
 A dataset of different comments classified into toxic and neutral is preprocessed, analysed and TF-IDF vectorized. 
 A model is built to help with the detection of toxic comments that will be sent to moderation
 
