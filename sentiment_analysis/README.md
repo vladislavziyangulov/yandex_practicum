@@ -23,4 +23,6 @@ Although the model is overfitted, its f1-measure is acceptable
 
 nltk, re, TF-IDF vectorizer
 
+worldcloud, collections
+
 sklearn, LGBM
