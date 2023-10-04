@@ -11,6 +11,6 @@ In Europe and North America, the most popular platforms are the X360 and PS4. Sh
 
 The Japanese differ from other users in their choice of platform, game genre and rating. They love the Role-Playing genre and the 3DS platform. The Japanese prefer unrated games.
 
-User ratings vary depending on the genre. However, sales are weakly dependent on critic ratings and generally do not vary linearly with user ratings.
+User ratings vary depending on the genre. However, sales are weakly dependent on critic ratings and generally do not correlate linearly with user ratings.
 
 The average user rating for PC and XOne games don't differ significantly. Action and Sports genres, however, have significantly different average user ratings
