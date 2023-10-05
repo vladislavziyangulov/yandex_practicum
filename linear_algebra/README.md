@@ -1,4 +1,4 @@
-# Description:
+# Data protection:
 
 We are given a sensitive data of an insurance company. 
 It will be used to run a linear regression model on. 
